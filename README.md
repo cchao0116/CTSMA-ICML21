@@ -1,4 +1,4 @@
-# SMACTREC-ICML21
+# CTSMA-ICML21
 Code for ICML21 paper "Learning Self-Modulating Attention in Continuous Time Space with Applications to Sequential Recommendation"
 
 ## Installation
